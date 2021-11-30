@@ -1,0 +1,262 @@
+#body{
+    border: 2px solid lavender;
+    height: 280px;
+    width: 170px;
+    border-radius: 25%;
+    margin: auto;
+    background: linear-gradient(to right,lavender,  grey);
+}
+#time{
+    border: 2px solid lightsteelblue;
+    height: 30px;
+    width: 80px;
+    border-radius: 20%;
+    margin-top: 13px;
+    margin-left: 70px;
+    background-color: linen;
+}
+#cal{
+    margin-left: 30px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: cornsilk;
+}
+.screen{
+    border: 2px solid lavender;
+    margin-left: -2.5px;
+    height: 50px;
+    width: 167px;
+  background-color: lightcyan;
+    border-radius: 25%;
+}
+#seven{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s;
+  width: 40px;
+}
+#seven:hover{
+    background-color: lightblue;
+    color: lightslategrey;
+    cursor: pointer;
+}
+#eight{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 40px;
+}
+#eight:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#nine{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 35px;
+}
+#nine:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#minus{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 40px;
+  height: 20px;
+
+}
+#minus:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#four{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s;
+  width: 40px;
+}
+#four:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#five{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 40px;
+}
+#five:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#six{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 35px;
+}
+#six:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#divide{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 40px;
+  height: 20px;
+
+}
+#divide:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#one{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s;
+  width: 40px;
+}
+#one:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#two{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 40px;
+}
+#two:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#three{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 35px;
+}
+#three:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#multiply{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 40px;
+  height: 20px;
+
+}
+#multiply:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#dot{
+  border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s;
+  width: 32px;
+}
+#dot:hover{
+   cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#zero{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 32px;
+}
+#zero:hover{
+   cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#equal{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 33px;
+}
+#equal:hover{
+   cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#add{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 35px;
+  height: 20px;
+
+}
+#add:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#del{
+    border-radius: 50%;
+  background-color: lavender;
+  transition-duration: 0.4s; 
+  width: 40px;
+  height: 20px;
+
+}
+#del:hover{
+  cursor: pointer;
+    background-color: lightblue;
+    color: lightslategrey;
+}
+#forth{
+    margin-top: -7px;
+    margin-left: 10px;
+}
+#de{
+    margin-top: -16px;
+    margin-left:20px ;
+}
+#percent{
+  border-radius: 50%;
+background-color: lavender;
+transition-duration: 0.4s; 
+width: 40px;
+height: 20px;
+
+}
+#percent:hover{
+  background-color: lightblue;
+  color: lightslategrey;
+  cursor: pointer;
+}
+#double{
+  border-radius: 50%;
+background-color: lavender;
+transition-duration: 0.4s; 
+width: 40px;
+height: 20px;
+
+}
+#double:hover{
+  background-color: lightblue;
+  color: lightslategrey;
+  cursor: pointer;
+}
